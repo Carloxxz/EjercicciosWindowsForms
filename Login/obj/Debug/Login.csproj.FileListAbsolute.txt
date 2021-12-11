@@ -1,0 +1,11 @@
+E:\Trabajos de visual\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+E:\Trabajos de visual\Login\obj\Debug\Login.Ventana.resources
+E:\Trabajos de visual\Login\obj\Debug\Login.Entrada.resources
+E:\Trabajos de visual\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Trabajos de visual\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Trabajos de visual\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Trabajos de visual\Login\bin\Debug\Login.exe.config
+E:\Trabajos de visual\Login\bin\Debug\Login.exe
+E:\Trabajos de visual\Login\bin\Debug\Login.pdb
+E:\Trabajos de visual\Login\obj\Debug\Login.exe
+E:\Trabajos de visual\Login\obj\Debug\Login.pdb
